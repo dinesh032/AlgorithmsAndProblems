@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\dines\desktop\code\algorithms&problems\findfourelements\findfourelements\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\dines\desktop\code\algorithms&problems\findfourelements\findfourelements\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\dines\desktop\code\algorithms&problems\findfourelements\findfourelements\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\dines\desktop\code\algorithms&problems\findfourelements\findfourelements\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  findFourElements.vcxproj -> C:\Users\dines\Desktop\Code\Algorithms&Problems\findFourElements\Debug\findFourElements.exe
